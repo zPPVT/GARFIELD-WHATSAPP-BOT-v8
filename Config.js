@@ -10,11 +10,11 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01',  // Do not change
 }
-global.owner = ["+94711502119"] //👈  Enter Your number)
-global.premium = ["+94711502119"] // 👈  Enter Your number)
+global.owner = ["+18608640387"] //👈  Enter Your number)
+global.premium = ["+18608640387"] // 👈  Enter Your number)
 global.emoji01 = ["🐼"] // 👈 Enter your Emoji 
 global.emoji02 = ["🦋"] //👈 Enter your Emoji
-global.ownernomer = [+94711502119] //👈 Enter Your number
+global.ownernomer = [+18608640387] //👈 Enter Your number
 global.ownername = ["ZENOI"] //👈 Enter Your name
 global.botname = ["ＧＡＲ ＦＩＥＬＤ ＢＯＴ ｖ8.2"] //👈 Enter Your Bot name
 global.footer = ["Coded by Tharindu Liyanage"] //👈 Enter Your Name
