@@ -10,33 +10,33 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01',  // Do not change
 }
-global.owner = ["+94711502119"] //👈  Enter Your number)
-global.premium = ["+94711502119"] // 👈  Enter Your number)
-global.emoji01 = ["🐼"] // 👈 Enter your Emoji 
-global.emoji02 = ["🦋"] //👈 Enter your Emoji
-global.ownernomer = [+94711502119] //👈 Enter Your number
-global.ownername = ["ZENOI"] //👈 Enter Your name
-global.botname = ["ＧＡＲ ＦＩＥＬＤ ＢＯＴ ｖ8.2"] //👈 Enter Your Bot name
-global.footer = ["Coded by Tharindu Liyanage"] //👈 Enter Your Name
+global.owner = ["+18608640387"] //👈  Enter Your number)
+global.premium = ["+18608640387"] // 👈  Enter Your number)
+global.emoji01 = ["👽"] // 👈 Enter your Emoji 
+global.emoji02 = ["👽"] //👈 Enter your Emoji
+global.ownernomer = [+18608640387] //👈 Enter Your number
+global.ownername = ["Ahmed"] //👈 Enter Your name
+global.botname = ["AHMED LAFI BOT"] //👈 Enter Your Bot name
+global.footer = ["AHMED"] //👈 Enter Your Name
 global.ig = ["https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8"]
-global.region = ["SriLanka"] // 👈 Enter Your country
+global.region = ["Saudi Arabia"] // 👈 Enter Your country
 global.sc = ["https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8"]
 global.myweb = ["https://www.facebook.com/garfieldbots/"] // 👈 Enter your Social media link to follow now button
-global.packname = ["GARFIELD-BOTv8"]  // 👈 You Can change this your choice 
-global.author = ["NOIZE DEVELOPMENT"] // 👈 You Can change this your choice 
-global.sessionName = 'session'  // 👈 You Can change this your choice 
+global.packname = ["Ahmed bot"]  // 👈 You Can change this your choice 
+global.author = ["Ahmed DEVELOPMENT"] // 👈 You Can change this your choice 
+global.sessionName = 'Ahmed'  // 👈 You Can change this your choice 
 global.prefa = ['','!','.']  // 👈 You Can change this your choice 
-global.sp = ['ZENOI']  // 👈 You Can change this your choice 
+global.sp = ['Ahmed']  // 👈 You Can change this your choice 
 global.mess = {
-    success: ["Done 🐼"], //👈 Use these in your language of choice
-    admin: ["This Feature Is Only For Admin!"], // 👈 Use these in your language of choice
-    botAdmin: ["Bot Must Be Admin First!"], // 👈 Use these in your language of choice
-    owner: ["This Feature Is Only For Owner!"], // 👈 Use these in your language of choice
-    group: ["Feature Used Only For Groups!"], //👈 Use these in your language of choice
-    private: ["Features Used Only For Private Chat!"], // 👈 Use these in your language of choice
-    bot: ["This Feature Is Only For Bot"], //👈 Use these in your language of choice
-    wait: ["```Please Wait 🐼```"], // 👈 Use these in your language of choice
-    error: ["Error! Maybe Api Key Is Expired 🐼!"], // 👈 Use these in your language of choice
+    success: [*تم 👽*], //👈 Use these in your language of choice
+    admin: [*أمر للآدمن مالك دخل فيه!*], // 👈 Use these in your language of choice
+    botAdmin: [*عط البوت اشراف عشان يشتغل الأمر !*], // 👈 Use these in your language of choice
+    owner: [*هذا الامر للمالك!*], // 👈 Use these in your language of choice
+    group: [*هذا الامر للقروبات فقط!*], //👈 Use these in your language of choice
+    private: ["*هذا الامر بالخاص فقط!*], // 👈 Use these in your language of choice
+    bot: [*هذا الامر للبوت فقط*], //👈 Use these in your language of choice
+    wait: [*```انتظر قليلًا 🐼```*], // 👈 Use these in your language of choice
+    error: ["خطأ! ممكن المالك ماله خلق يعدله 👽!"], // 👈 Use these in your language of choice
     endLimit: ["Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours"],
 }
     global.limitawal = { 
